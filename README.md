@@ -53,3 +53,29 @@ Amount (NGN): The monetary amount of the transaction, in Nigerian Naira.
 •	Akwa Ibom Branch has the highest total net profit, but it was not consistent, other branches profitability was not also consistent over the course of the years (2020-2023)
 
 ![image](https://github.com/user-attachments/assets/6d03b3eb-e44b-4fba-9a33-c0ee372b7aac)
+
+
+
+4.YoY growth % Change.
+•	It was observed that cross river Branch YoY % Change for expenses is 33% while Yoy % Change for Revenue is also 33%, it suggests stability but no improvement in profit margins.
+
+## Recommendations
+
+•	Allocation of Resources should be made to growing Branches. Issues in underperforming Branches should be investigated and addressed.
+
+•	There should be implementation of cost control measures where expenses consistently exceed Revenue.
+
+•	Focus should be made on reducing high-cost expense categories.
+
+•	Strategies that will enhance revenue in branches with low revenue should be developed.
+
+•	Successful strategies that have been used in other high performing Branches should be identified and replicate them.
+
+•	Revenue and Expense Targets should be set for branches based on historical data and trends.
+
+•	Progress of all the branches should be monitored regularly.
+
+
+
+
+
