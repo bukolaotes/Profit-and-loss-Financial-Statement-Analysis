@@ -44,7 +44,9 @@ Amount (NGN): The monetary amount of the transaction, in Nigerian Naira.
 
 1.Revenue trends by branch and year.
 •	Akwa ibom  Branch has the highest revenue of  ₦ 1,725,212,274.00 over the years(2020-2023) from the total revenue of ₦ 9,641,838,938.00 generated over the years(2020-2023).Akwa ibom Branch also generated the highest  revenue of ₦ 486,478,763.00 in the year 2021 compared to other branches and other years.
+
 •	Delta state Branch generated the lowest revenue of ₦ 1,538,668,083.00 over the years (2020-2023)
+
 •	Rivers state, cross river, Bayelsa and Edo branch has growth trend between year 2022-2023 compared to delta and Edo state branch 
 
 ![image](https://github.com/user-attachments/assets/98b3ce17-f5de-497c-b341-6e519474bb4a)
@@ -52,6 +54,7 @@ Amount (NGN): The monetary amount of the transaction, in Nigerian Naira.
 
 2.Expense Analysis.
 •	Delta branch incurred the highest total expenses of ₦ 843,789,294.00 over the years (2020-2023) compared to other branches. Year 2020 has the highest expenses of ₦ 1,236,165,427.00 compared to other years that was incurred by the six branches.
+
 •	It was discovered that cost of sales contributed most (78%) to the overall expenses for all the branches.
 
 3.Profitability Analysis.
@@ -62,6 +65,7 @@ Amount (NGN): The monetary amount of the transaction, in Nigerian Naira.
 
 
 4.YoY growth % Change.
+
 •	It was observed that cross river Branch YoY % Change for expenses is 33% while Yoy % Change for Revenue is also 33%, it suggests stability but no improvement in profit margins.
 
 ## Recommendations
