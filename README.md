@@ -10,7 +10,7 @@ The aim is to analyze P&L data to understand revenue, expenses, and overall prof
 
 ## Dataset Structure
 
-The dataset you will be working with includes the following columns:
+The dataset  i will be working with includes the following columns:
 
 Date: The date of the financial transaction.
 
