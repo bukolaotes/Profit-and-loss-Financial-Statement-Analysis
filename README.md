@@ -31,14 +31,17 @@ Amount (NGN): The monetary amount of the transaction, in Nigerian Naira.
 ## Data Cleaning and Preprocessing
 
 •	Duplicate were removed
+
 •	All financial figures were formatted correctly
 
 ## Tools Used:
 
 •	Microsoft Excel
+
 •	Power business intelligence (Power bi)
 
 ## Findings
+
 1.Revenue trends by branch and year.
 •	Akwa ibom  Branch has the highest revenue of  ₦ 1,725,212,274.00 over the years(2020-2023) from the total revenue of ₦ 9,641,838,938.00 generated over the years(2020-2023).Akwa ibom Branch also generated the highest  revenue of ₦ 486,478,763.00 in the year 2021 compared to other branches and other years.
 •	Delta state Branch generated the lowest revenue of ₦ 1,538,668,083.00 over the years (2020-2023)
