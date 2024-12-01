@@ -29,10 +29,12 @@ Amount (NGN): The monetary amount of the transaction, in Nigerian Naira.
 •	Calculate the profit Margin for each Branch
 
 ## Data Cleaning and Preprocessing
+
 •	Duplicate were removed
 •	All financial figures were formatted correctly
 
 ## Tools Used:
+
 •	Microsoft Excel
 •	Power business intelligence (Power bi)
 
